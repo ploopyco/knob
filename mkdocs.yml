@@ -1,0 +1,12 @@
+site_name: Ploopy Knob
+site_url: https://ploopyco.github.io/knob
+theme: material
+nav:
+  - 'index.md'
+  - 'assembly-instructions.md'
+  - Appendices:
+    - 'appendices/pcbs.md'
+    - 'appendices/3d-printing.md'
+    - 'appendices/hardware.md'
+    - 'appendices/programming.md'
+  - 'license.md'
