@@ -12,7 +12,7 @@ What are you waiting for? Your new life awaits.
 
 Knobs bought from the [Ploopy store](https://ploopy.co/product-category/knob) come with QMK preloaded. [Check out the documentation](https://ploopyco.github.io/knob/) for instructions on how to load new firmware onto your device. (It's super easy!)
 
-The firmware file that ships with all Knobs is included in this repository as well, as `ploopyco_knob_fast.uf2`. We also have a few other precompiled firmwares, so try which one works best for you.
+The firmware file that ships with all Knobs is included in this repository as well, as `ploopyco_knob_slow.uf2`. We also have a few other precompiled firmwares, so try which one works best for you.
 
 ## Under what license is this released?
 
