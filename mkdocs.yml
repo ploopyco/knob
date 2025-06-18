@@ -1,6 +1,8 @@
 site_name: Ploopy Knob
 site_url: https://ploopyco.github.io/knob
 theme: material
+markdown_extensions:
+  - footnotes
 nav:
   - 'index.md'
   - 'assembly-instructions.md'
@@ -9,4 +11,5 @@ nav:
     - 'appendices/3d-printing.md'
     - 'appendices/hardware.md'
     - 'appendices/programming.md'
+    - 'appendices/macos.md'
   - 'license.md'
