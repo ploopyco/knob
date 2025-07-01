@@ -48,7 +48,7 @@ If you want to upload a new firmware file (a ".uf2" file, like "ploopy_knob_v420
 
 Whenever you want to put new firmware onto the Ploopy device, go through these steps again.
 
-**TIP**: If your firmware is in some kind of strange state and uploading new firmware isn't fixing it, try uploading [a flash nuke](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182) to the Classic 2 before flashing the new firmware. It wipes the memory of the Trackpad completely clean, which can help clear a few types of errors.
+**TIP**: If your firmware is in some kind of strange state and uploading new firmware isn't fixing it, try uploading [a flash nuke](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython#flash-resetting-uf2-3083182) to the knob before flashing the new firmware. It wipes the memory of the knob completely clean, which can help clear a few types of errors.
 
 
 ## And that's it!
