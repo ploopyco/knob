@@ -5,7 +5,7 @@ Currently, MacOS does its own smoothing to implement high-resolution scrolling. 
 The current firmware implements notched scrolling for MacOS, which then smoothes the motion. However, it isn't as precise as it is in the Windows and Linux implementations. For this reason, we designate that high-resolution scrolling is not officially supported by the Knob.
 
 
-## Workaround
+## Workaround #1: discrete-scroll
 
 A possible workaround is to utilise [the open-source library "discrete-scroll"](https://github.com/emreyolcu/discrete-scroll). This disables the smooth scrolling on MacOS.[^1]
 
@@ -67,4 +67,12 @@ to this:
 After recompiling and reflashing (see [Appendix D: QMK Firmware Programming](programming.md) for more details), you should get smooth scrolling, just the same as on Windows or Linux.
 
 
+## Workaround #2: BetterMouse
+
+Another workaround is using BetterMouse. It requires downloading paid software, and is verified as working.
+
+[A full write-up on how to do this is available here](https://www.reddit.com/r/ploopy/comments/1lv1i6m/got_the_knob_found_a_macos_workaround/).[^2]
+
+
 [^1]: Thanks to [asyncmeow](https://fedi.rrr.sh/@pearl) for her contributions to this fix.
+[^2]: Thanks to [u/SilentStormer](https://www.reddit.com/user/SilentStormer/) for his contributions to this fix.

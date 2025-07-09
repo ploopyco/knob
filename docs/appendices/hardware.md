@@ -1,6 +1,6 @@
 # Appendix C: Hardware
 
-# Buying hardware from us
+## Buying hardware from us
 
 Getting all of the hardware on your own can be tricky because the parts you select may not fit perfectly. [That's why we sell fully-assembled Knobs](https://ploopy.co/product-category/knob/). Here's why that's great for you:
 
@@ -10,7 +10,7 @@ Getting all of the hardware on your own can be tricky because the parts you sele
 
 Your call. You'll sort it out.
 
-# Getting your own hardware
+## Getting your own hardware
 
 This guide was a bit light on detail in the other sections, and that's because the hardware has to conform to many specifications. They'll all be listed here.
 
@@ -27,7 +27,7 @@ We'll be going over all of them in detail. There will be mentions of *critical s
 Let's get cracking.
 
 
-## Screws
+### Screws
 
 Here are the critical specifications:
 
@@ -35,7 +35,7 @@ Here are the critical specifications:
 - 1/4" length
 
 
-## Magnets
+### Magnets
 
 Here are the critical specifications:
 
@@ -43,7 +43,7 @@ Here are the critical specifications:
 - 2mm thickness
 
 
-## 6705ZZ Roller Bearing
+### 6705ZZ Roller Bearing
 
 Here are the critical specifications:
 
@@ -53,7 +53,7 @@ Here are the critical specifications:
 - 4mm thickness
 
 
-## Friction pads
+### Friction pads
 
 Here are the critical specifications:
 

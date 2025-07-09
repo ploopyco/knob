@@ -1,6 +1,6 @@
 # Appendix B: 3D printed parts
 
-# Buying 3D-printed parts from us
+## Buying 3D-printed parts from us
 Not everyone has access to a 3D-printer. [That's why we sell fully-assembled Knobs](https://ploopy.co/product-category/knob/). Here's why that's great for you:
 
 - You get all of the 3D-printed parts, guaranteed free of manufacturing defects
@@ -9,7 +9,7 @@ Not everyone has access to a 3D-printer. [That's why we sell fully-assembled Kno
 
 Consider it. You're a smartie. You'll get there.
 
-# Printing your own parts
+## Printing your own parts
 
 So, you have a printer and want to print your own parts? Great! We don't have specific instructions, since every printer setup is different. All of the STLs are available, and if you need to make tweaks, you can alter the design files.
 
