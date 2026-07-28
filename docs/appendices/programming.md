@@ -35,7 +35,7 @@ For more details on building QMK firmware in general, see the [QMK firmware guid
 Putting the Ploopy device into bootloader mode is very simple and straightforward.
 
 1. Unplug it from your computer.
-2. Open it by removing the screws in the Base and removing the Top.
+2. Open it by removing the Top (it's attached via friction and requires some force to pull up and off).
 3. Look for a pair of vias (gold-plated holes) on the board ([here's a photo](https://ploopy.co/wp-content/uploads/2025/06/knob-vias.jpg)).
 4. Get a paper clip (non-insulated, i.e. no plastic shit covering it) or a pair of tweezers, or some wire. Whatever you've got on hand that's metal.
 5. Stick the paper clip or tweezers into the holes. You're trying to form an electrical connection between the two holes.
